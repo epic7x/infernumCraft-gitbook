@@ -1,3 +1,3 @@
 # Objetivo
 
-Sobrevivir hasta el Día 60 y enfrentar a Khrenos.
+Sobrevive, protege tus vidas y prepárate para el enfrentamiento final.

@@ -1,3 +1,1 @@
-# Sanciones
-
-Catálogo de sanciones aplicables.
+# Sistema de Sanciones

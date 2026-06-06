@@ -1,3 +1,3 @@
 # Kicks
 
-Expulsiones temporales del servidor.
+Aplicables cuando el jugador ignora advertencias o altera el orden del servidor.

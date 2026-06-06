@@ -1,3 +1,3 @@
-# Reglamento
+# Reglamento Oficial
 
-Normativa oficial del servidor.
+Las reglas se interpretarán conforme al espíritu de juego limpio.

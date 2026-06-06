@@ -1,3 +1,3 @@
 # Advertencias
 
-Faltas leves y primeras infracciones.
+Aplicables a faltas leves. Tres advertencias activas pueden convertirse en Kick.

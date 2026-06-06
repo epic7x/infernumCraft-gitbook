@@ -1,3 +1,3 @@
 # Infernumcraft
 
-Bienvenido a la documentación oficial de Infernumcraft.
+Documentación oficial del proyecto Infernumcraft.

@@ -1,9 +1,5 @@
 # Administración
 
-## Evidencias válidas
-- Capturas.
-- Videos.
-- Logs.
+Esta sección explica cómo se reportan infracciones, qué pruebas sirven y cómo funcionan las apelaciones.
 
-## Apelaciones
-Toda sanción podrá apelarse mediante los canales oficiales.
+La Administración debe actuar con criterio, pero también necesita pruebas claras para evitar decisiones injustas.

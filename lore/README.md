@@ -1,10 +1,5 @@
 # Lore
 
-## El Comienzo
-Una corrupción comenzó a extenderse por el mundo.
+El lore de Infernumcraft explica narrativamente las mecánicas principales del servidor.
 
-## Los Conejos Vitales
-Criaturas vinculadas a la energía vital.
-
-## Khrenos
-Entidad responsable de la amenaza final.
+No reemplaza las reglas, pero ayuda a dar identidad al mundo.

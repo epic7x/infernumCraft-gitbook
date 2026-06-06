@@ -1,16 +1,26 @@
-# Table of contents
+# Summary
 
-* [Reglamento Oficial de Infernumcraft](README.md)
+* [Inicio](README.md)
 
-## Art. 1.0 — Disposiciones Generales <a href="#art-1" id="art-1"></a>
+* [Infernumcraft](infernumcraft/README.md)
+  * [Visión](infernumcraft/vision.md)
+  * [Filosofía](infernumcraft/filosofia.md)
+  * [Objetivo](infernumcraft/objetivo.md)
+  * [Death Train](infernumcraft/death-train.md)
+  * [Sistema de Vidas](infernumcraft/sistema-de-vidas.md)
+  * [Khrenos](infernumcraft/khrenos.md)
 
-* [Art. 1.1](art-1/art.-1.1.md)
-* [Art. 1.2](art-1/art.-1.2.md)
-* [Art. 1.3](art-1/art.-1.3.md)
-* [Art. 1.4](art-1/art.-1.4.md)
-* [Art. 1.5](art-1/art.-1.5.md)
+* [Reglamento](reglamento/README.md)
+  * [Reglamento General](reglamento/reglamento-general.md)
 
-## Art. 2.0 — Régimen Disciplinario <a href="#art-2" id="art-2"></a>
+* [Sanciones](sanciones/README.md)
+  * [Advertencias](sanciones/advertencias.md)
+  * [Kicks](sanciones/kicks.md)
+  * [Bans Temporales](sanciones/bans-temporales.md)
+  * [Expulsiones Definitivas](sanciones/expulsiones-definitivas.md)
 
-* [Art. 2.1](art-2/art.-2.1.md)
-* [Art. 2.1.1](art-2/art.-2.1.1.md)
+* [Lore](lore/README.md)
+  * [El Comienzo](lore/el-comienzo.md)
+  * [Los Conejos Vitales](lore/conejos-vitales.md)
+  * [La Corrupción](lore/la-corrupcion.md)
+  * [Khrenos](lore/khrenos.md)

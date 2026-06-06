@@ -1,3 +1,3 @@
-# Reglamento Oficial de Infernumcraft
+# Infernumcraft
 
-##
+Bienvenido a la documentación oficial de Infernumcraft.
